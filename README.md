@@ -5,4 +5,9 @@ AF-ID("The Johns Hopkins University Applied Physics Laboratory" 60022054) AND (P
 
 AF-ID("The Johns Hopkins University Applied Physics Laboratory" 60022054) AND  (PUBYEAR  =  2016 ) AND NOT ( DOCTYPE ( er ) OR DOCTYPE (ed)) 
 554 results for Scopus 2016 minus 1 reply-to-letter; minus 1 comment/note
+
+Use ALSO AF-ID ( "Johns Hopkins Applied Physics Laboratory"   106441553 ) 
+AF-ID("Johns Hopkins Applied Physics Laboratory" 106441553)  AND ((PUBYEAR IS 2016) OR (PUBYEAR IS 2017)) 
+yields 1 result only for 2016
+
 Web of Science search
