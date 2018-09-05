@@ -10,4 +10,6 @@ Use ALSO AF-ID ( "Johns Hopkins Applied Physics Laboratory"   106441553 )
 AF-ID("Johns Hopkins Applied Physics Laboratory" 106441553)  AND ((PUBYEAR IS 2016) OR (PUBYEAR IS 2017)) 
 yields 1 result only for 2016
 
+Could also try AUTHCOLLAB("applied physics lab" OR "applied physics laboratory" OR "APL") although yields only 1 result for 1975
+
 Web of Science search
