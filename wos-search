@@ -1,4 +1,4 @@
-Web of Science search
+Web of Science search for APL 2017
 OG=(Johns Hopkins University Applied Physics Laboratory) AND PY=2017
 Refined by: [excluding] DOCUMENT TYPES: ( CORRECTION ) 
 yields 508 results of which 
@@ -8,3 +8,8 @@ or 2nd export file, wos-apl-2017-wos-apl-2017-501-to-508-of-508-results.ciw, 6 a
 WOS NameVariant search
 OO=(("Johns Hopkins" or JHU) AND (APL  OR ”APPL PHY LAB“ OR ”APPL PHYS LAB“ OR ”APPL PHYS LABS“ OR ”JHU APPL PHYS “ OR ”JOHN HOPKINS APPL PHYS LAB “ OR ”JOHNS HOPKINS APL “ OR ”JOHNS HOPKINS APPL PHYS“ OR ”JOHNS HOPKINS APPL PHYS LAB“ OR ”JOHNS HOPKINS UNIV APPL PHYS LAB”)) AND PY=2017 
 
+Web of Science search for APL 2016
+Results: 576
+(from Web of Science Core Collection)
+You searched for: OG=(Johns Hopkins University Applied Physics Laboratory) AND PY=2016
+Refined by: [excluding] DOCUMENT TYPES: ( BOOK REVIEW OR CORRECTION ) 
