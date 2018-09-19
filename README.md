@@ -1,4 +1,7 @@
 # APL-Affiliation-searches
+
+scopus-APL-2012-514-results.RIS minus 5 duplicates imported to duplicate library. 509 imported to EndNote
+
 SCOPUS search for Affiliation ID: 60022054
 AF-ID("The Johns Hopkins University Applied Physics Laboratory" 60022054) AND (PUBYEAR  =  2017 ) AND NOT ( DOCTYPE (er ) OR DOCTYPE (ed )) 
 527 results for Scopus 2017 - minus 1 response letter minus 1 student poster (note)
